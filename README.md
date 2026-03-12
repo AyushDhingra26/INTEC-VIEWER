@@ -25,7 +25,7 @@ or [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) (should already be av
 
 ### Setup & Run
 
-- Clone this repository: `git clone https://github.com/autodesk-platform-services/aps-simple-viewer-dotnet`
+- Clone this repository: `git clone https://github.com/AyushDhingra26/INTEC-VIEWER.git`
 - Go to the project folder: `cd aps-simple-viewer-dotnet`
 - Install .NET dependencies: `dotnet restore`
 - Open the project folder in a code editor of your choice
