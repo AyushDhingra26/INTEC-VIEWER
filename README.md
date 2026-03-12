@@ -26,7 +26,7 @@ or [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) (should already be av
 ### Setup & Run
 
 - Clone this repository: `git clone https://github.com/AyushDhingra26/INTEC-VIEWER.git`
-- Go to the project folder: `cd aps-simple-viewer-dotnet`
+- Go to the project folder
 - Install .NET dependencies: `dotnet restore`
 - Open the project folder in a code editor of your choice
 - Create an _appsettings.Development.json_ file in the project folder (if it does not exist already),
