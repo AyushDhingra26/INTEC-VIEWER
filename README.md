@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Viewer (.NET)
 
 ![platforms](https://img.shields.io/badge/platform-windows%20%7C%20osx%20%7C%20linux-lightgray.svg)
@@ -70,3 +71,6 @@ If you have any other question, please contact us via https://forge.autodesk.com
 
 This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 Please see the [LICENSE](LICENSE) file for more details.
+=======
+# INTEC-VIEWER
+>>>>>>> a6851758d122a102c10bfa005569d8b5519b2996
